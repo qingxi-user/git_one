@@ -3,7 +3,8 @@
     {
       "name": "Mac (Clang)",
       "includePath": [
-        "${workspaceFolder}/**"
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/my_bits"
       ],
       "defines": [],
       "compilerPath": "/usr/bin/clang++",

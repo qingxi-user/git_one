@@ -12,6 +12,8 @@
         "-Wall",
         "-Wextra",
         "-O0",
+        "-I",
+        "${workspaceFolder}/my_bits",
         "${file}",
         "-o",
         "${workspaceFolder}/build/${fileBasenameNoExtension}"

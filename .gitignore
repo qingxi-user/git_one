@@ -3,3 +3,10 @@ env
 .env
 .env.*
 .DS_Store
+
+# C++ 编译产物
+build/
+*.o
+*.obj
+*.out
+*.exe
